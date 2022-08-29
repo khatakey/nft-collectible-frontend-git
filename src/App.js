@@ -70,7 +70,7 @@ function App() {
     } catch (err) {
       console.log(err);
     }
-  };npm install
+  };
 
   const connectWalletButton = () => {
     return (

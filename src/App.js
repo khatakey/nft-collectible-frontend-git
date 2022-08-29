@@ -3,7 +3,7 @@ import "./App.css";
 import contract from "./contracts/NFTCollectible.json";
 import { ethers } from "ethers";
 
-
+//Polygon deployed addresses
 const contractAddress ="0x50DDb0aC5242d514a40AA10b1AA9B3Ba1f9244ca";
 const abi = contract.abi;
 
